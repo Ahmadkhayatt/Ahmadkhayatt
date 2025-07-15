@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ahmadkhayatt/Ahmadkhayatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://placehold.co/1200x300/000000/AC3097?text=Ahmad+Khayat)
 
-Here are some ideas to get you started:
+# Hi there, I'm Ahmad 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SOFTWARE ENGINEER | AI & PYTHON ENTHUSIAST
+
+<p>
+  <a href="https://www.linkedin.com/in/ahmad-khayat-75sy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+</p>
+
+A Computer Engineering passionate about developing innovative solutions using Artificial Intelligence and Python programming. I aim to leverage my technical skills and data analysis expertise to contribute to advanced projects and create a positive impact in the technology field.
+
+</div>
+
+
+
+## 📫 How to Reach Me
+Feel free to get in touch! I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
+
+- **Email:** `Khayyat2003@gmail.com`
+- **LinkedIn:** [`ahmad-khayat-75sy`](https://www.linkedin.com/in/ahmad-khayat-75sy)
+
