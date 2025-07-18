@@ -1,9 +1,5 @@
 <div align="center">
 
-![Profile Banner](https://placehold.co/1200x300/000000/AC3097?text=Ahmad+Khayat)
-
-# Hi there, I'm Ahmad 👋
-
 ### SOFTWARE ENGINEER | AI & PYTHON ENTHUSIAST
 
 <p>
@@ -19,7 +15,7 @@ A Computer Engineering passionate about developing innovative solutions using Ar
 
 
 
-## 📫 How to Reach Me
+##  How to Reach Me
 Feel free to get in touch! I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
 
 - **Email:** `Khayyat2003@gmail.com`
