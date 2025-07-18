@@ -1,6 +1,6 @@
 <div align="center">
 
-### SOFTWARE ENGINEER | AI & PYTHON ENTHUSIAST
+# SOFTWARE ENGINEER | AI & PYTHON ENTHUSIAST
 
 <p>
   <a href="https://www.linkedin.com/in/ahmad-khayat-75sy">
